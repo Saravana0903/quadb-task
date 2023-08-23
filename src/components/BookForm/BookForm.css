@@ -1,0 +1,15 @@
+.bg-con{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    text-align:center;
+}
+.inp-ele{
+    width:250px;
+    height:40px;
+    border-radius:10px;
+}
+.icon{
+    height:300px;
+    width:220px;
+}

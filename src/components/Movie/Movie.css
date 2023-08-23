@@ -1,0 +1,24 @@
+.bg-con{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    height:auto;
+    padding-top:15px;
+    padding-bottom:15px;
+    color:#ffffff;
+    background-color:rgb(99, 99, 116);
+    overflow:auto;
+
+}
+
+.big{
+    height:300;
+    width:210px;
+}
+
+@media screen and (min-width:600px) {
+    .bg-con{
+        height:100vh;
+    }
+    
+}
